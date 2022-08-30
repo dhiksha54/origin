@@ -1,0 +1,10 @@
+
+git add
+git add .
+git commit -m "Added folder and files"
+
+quit
+:wq!
+
+ :wq!
+
